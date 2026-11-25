@@ -21,3 +21,6 @@ next-env.d.ts
 .DS_Store
 .idea/
 .vscode/
+
+# локальные переопределения docker compose
+docker-compose.override.yml
